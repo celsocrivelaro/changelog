@@ -1,6 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
-|2017-02-17|ruby|[GIL](http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil)|
+|2017-02-17|ruby|[GIL](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)|
 |2017-02-17|oo|[Principles of OOD Uncle Bob](https://github.com/remiprev/her)|
 |2017-02-17|misc|[Animated GIF](https://www.linuxdescomplicado.com.br/2016/08/saiba-como-criar-um-gif-animado-de-imagens-a-partir-de-um-screencast-no-linux.html)|
 |2017-02-17|ruby|[Her](https://github.com/remiprev/her): ORM maps REST resources|
