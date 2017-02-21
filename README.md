@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-02-21|linux|[Tmux 1](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) and [Tmux 2](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)|
 |2017-02-17|ruby|[GIL](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)|
 |2017-02-17|oo|[Principles of OOD Uncle Bob](https://github.com/remiprev/her)|
 |2017-02-17|misc|[Animated GIF](https://www.linuxdescomplicado.com.br/2016/08/saiba-como-criar-um-gif-animado-de-imagens-a-partir-de-um-screencast-no-linux.html)|
