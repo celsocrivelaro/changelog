@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-02-22|ruby|[Module Prepend](http://gshutler.com/2013/04/ruby-2-module-prepend/)|
 |2017-02-21|misc|[Keep a changelog](http://keepachangelog.com/en/0.3.0/)|
 |2017-02-21|git|[git add --patch](http://nuclearsquid.com/writings/git-add/)|
 |2017-02-21|linux|[Tmux 1](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) and [Tmux 2](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)|
