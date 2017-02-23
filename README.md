@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-02-22|vim|[Resize splits](http://vim.wikia.com/wiki/Resize_splits_more_quickly), C-w -> + - (height), < > (width), 10 C-w > (10 columns) |
 |2017-02-22|bash|[My extravagant Zsh](http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt)|
 |2017-02-22|ruby|[Module Prepend](http://gshutler.com/2013/04/ruby-2-module-prepend/)|
 |2017-02-21|misc|[Keep a changelog](http://keepachangelog.com/en/0.3.0/)|
