@@ -7,6 +7,8 @@
 |2017-02-21|git|[git add --patch](http://nuclearsquid.com/writings/git-add/)|
 |2017-02-21|linux|[Tmux 1](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/) and [Tmux 2](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)|
 |2017-02-17|ruby|[GIL](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)|
+|2017-02-17|testing|[Unit Test Readbility](http://blog.plataformatec.com.br/2014/04/improve-your-test-readability-using-the-xunit-structure/)|
+|2017-02-17|ruby|[GIL](http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil)|
 |2017-02-17|oo|[Principles of OOD Uncle Bob](https://github.com/remiprev/her)|
 |2017-02-17|misc|[Animated GIF](https://www.linuxdescomplicado.com.br/2016/08/saiba-como-criar-um-gif-animado-de-imagens-a-partir-de-um-screencast-no-linux.html)|
 |2017-02-17|ruby|[Her](https://github.com/remiprev/her): ORM maps REST resources|
