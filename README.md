@@ -1,6 +1,7 @@
 |Date|Category|Description|
 |---|---|---|
-|2017-03-01|ruby|[Shared Examples](http://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/shared-examples)|
+|2017-03-04|bash|[Reform - Form objects decoupled from your models](https://github.com/trailblazer/reform)|
+|2017-03-04|ruby|[Shared Examples](http://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/shared-examples)|
 |2017-03-01|bash|[Bash functions](http://samrowe.com/wordpress/advancing-in-the-bash-shell)|
 |2017-02-27|bash|[#!/usr/bin/env perl](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)|
 |2017-02-22|vim|[Resize splits](http://vim.wikia.com/wiki/Resize_splits_more_quickly), C-w -> + - (height), < > (width), 10 C-w > (10 columns) |
