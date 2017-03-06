@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-03-06|ruby|[Get Constant from Child Class - get_constant](https://ruby-doc.org/core-2.1.0/Module.html#method-i-const_get)|
 |2017-03-04|bash|[Reform - Form objects decoupled from your models](https://github.com/trailblazer/reform)|
 |2017-03-04|ruby|[Shared Examples](http://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/shared-examples)|
 |2017-03-01|bash|[Bash functions](http://samrowe.com/wordpress/advancing-in-the-bash-shell)|
