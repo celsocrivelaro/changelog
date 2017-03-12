@@ -1,7 +1,10 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-03-12|http|[Content Security Policy](http://blog.caelum.com.br/content-security-policy-uma-arma-eficaz-contra-ataques-xss/)|
+|2017-03-12|js|[EventListener - Onclick](http://blog.caelum.com.br/sera-que-o-onclick-e-do-mal-as-varias-formas-de-ouvir-eventos-em-uma-pagina/)|
 |2017-03-06|ruby|Unable to require openssl: rvm reinstall 2.3.3 --with-openssl-dir=`brew --prefix openssl`|
 |2017-03-06|ruby|[Get Constant from Child Class - get_constant](https://ruby-doc.org/core-2.1.0/Module.html#method-i-const_get)|
+|2017-03-04|ruby|[Reform - Form objects decoupled from your models](https://github.com/trailblazer/reform)|
 |2017-03-04|bash|[Reform - Form objects decoupled from your models](https://github.com/trailblazer/reform)|
 |2017-03-04|ruby|[Shared Examples](http://www.relishapp.com/rspec/rspec-core/v/3-5/docs/example-groups/shared-examples)|
 |2017-03-01|bash|[Bash functions](http://samrowe.com/wordpress/advancing-in-the-bash-shell)|
