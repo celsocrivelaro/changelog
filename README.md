@@ -1,5 +1,7 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-03-21|bash|[Shell check](https://www.shellcheck.net/)|
+|2017-03-21|bash|[Bash strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)|
 |2017-03-18|angular|[Protactor](http://www.protractortest.org/#/)|
 |2017-03-12|http|[Content Security Policy](http://blog.caelum.com.br/content-security-policy-uma-arma-eficaz-contra-ataques-xss/)|
 |2017-03-12|js|[EventListener - Onclick](http://blog.caelum.com.br/sera-que-o-onclick-e-do-mal-as-varias-formas-de-ouvir-eventos-em-uma-pagina/)|
