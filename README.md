@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-03-23|ruby|[Pudit](https://github.com/elabs/pundit): Minimal authorization through OO design and pure Ruby classes|
 |2017-03-21|bash|[Shell check](https://www.shellcheck.net/)|
 |2017-03-21|bash|[Bash strict mode](http://redsymbol.net/articles/unofficial-bash-strict-mode/)|
 |2017-03-18|angular|[Protactor](http://www.protractortest.org/#/)|
