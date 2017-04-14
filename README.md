@@ -1,6 +1,8 @@
 |Date|Category|Description|
 |---|---|---|
-|2017-03-27|docker|(Goss)[https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9]: Testing Docker configurations |
+|2017-04-14|ruby|[Hashie](https://github.com/intridea/hashie): Hash with coercion and steroids|
+|2017-04-14|ruby|[Dry Validation](http://solnic.eu/2015/12/07/introducing-dry-validation.html): Parser and Coersion of params in Ruby|
+|2017-03-27|docker|[Goss](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9): Testing Docker configurations |
 |2017-03-26|bash|[Shunit](https://github.com/kward/shunit2) - Unit tests for shell|
 |2017-03-23|vim|ci) -> change inside parantesis|
 |2017-03-23|ruby|[Pudit](https://github.com/elabs/pundit): Minimal authorization through OO design and pure Ruby classes|
