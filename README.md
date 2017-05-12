@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-05-12|ruby|[Terminal Table](https://github.com/tj/terminal-table): Ruby ASCII Table Generator|
 |2017-04-14|ruby|[Hashie](https://github.com/intridea/hashie): Hash with coercion and steroids|
 |2017-04-14|ruby|[Dry Validation](http://solnic.eu/2015/12/07/introducing-dry-validation.html): Parser and Coersion of params in Ruby|
 |2017-03-27|docker|[Goss](https://medium.com/@aelsabbahy/tutorial-how-to-test-your-docker-image-in-half-a-second-bbd13e06a4a9): Testing Docker configurations |
