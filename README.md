@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-05-19|tmux|Enable mouse: set -g mouse on|
 |2017-05-17|js|[Select2](https://select2.github.io/examples.html): Select box component|
 |2017-05-12|ruby|[Terminal Table](https://github.com/tj/terminal-table): Ruby ASCII Table Generator|
 |2017-04-14|ruby|[Hashie](https://github.com/intridea/hashie): Hash with coercion and steroids|
