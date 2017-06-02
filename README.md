@@ -1,5 +1,7 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-06-02|css|[Loading](https://loading.io/animation/)|
+|2017-06-02|css|[Font Awesome Icons](http://fontawesome.io/icons/)|
 |2017-05-19|tmux|Zoom a pane: C-z|
 |2017-05-19|tmux|Enable mouse: set -g mouse on|
 |2017-05-17|js|[Select2](https://select2.github.io/examples.html): Select box component|
