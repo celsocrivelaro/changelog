@@ -1,5 +1,7 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-06-19|ruby|[Rainbow](https://github.com/sickill/rainbow): Ruby gem for colorizing printed text on ANSI terminals|
+|2017-06-06|terminal|[Asciinema](https://asciinema.org/): Record you terminal|
 |2017-06-02|css|[Loading](https://loading.io/animation/)|
 |2017-06-02|css|[Font Awesome Icons](http://fontawesome.io/icons/)|
 |2017-05-19|tmux|Zoom a pane: C-z|
