@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2017-07-19|ruby|[Climate Control](https://github.com/sickill/rainbow): Ruby gem for changing ENV in testing|
 |2017-06-19|ruby|[Rainbow](https://github.com/sickill/rainbow): Ruby gem for colorizing printed text on ANSI terminals|
 |2017-06-06|terminal|[Asciinema](https://asciinema.org/): Record you terminal|
 |2017-06-02|css|[Loading](https://loading.io/animation/)|
