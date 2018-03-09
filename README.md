@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2018-03-09|terminal|[Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 |2017-07-19|ruby|[Climate Control](https://github.com/sickill/rainbow): Ruby gem for changing ENV in testing|
 |2017-06-19|ruby|[Rainbow](https://github.com/sickill/rainbow): Ruby gem for colorizing printed text on ANSI terminals|
 |2017-06-06|terminal|[Asciinema](https://asciinema.org/): Record you terminal|
