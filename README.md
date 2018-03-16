@@ -1,5 +1,6 @@
 |Date|Category|Description|
 |---|---|---|
+|2018-03-16|js|[Prompts](https://github.com/terkelg/prompts) - Prompt for JavaScript
 |2018-03-15|ruby|[FixedWidthFileParser](https://github.com/elevatorup/fixed_width_file_parser) - Positional File Parser
 |2018-03-09|pg|[Window Function](https://www.youtube.com/watch?v=hWorm0m-D9U) - PG Window Function
 |2018-03-09|terminal|[Peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
